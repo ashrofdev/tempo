@@ -11,7 +11,7 @@ const Header = () => {
     }
     return (
         <div className="slider">
-            <h1>TEMPO BRAND</h1>
+            <h1>TEMPO</h1>
             <Slider {...settings}>
                 <div className="slide">
                    <img src={require('../media/ani.jpg')}/>
