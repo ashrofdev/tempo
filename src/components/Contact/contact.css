@@ -64,5 +64,8 @@
     .right input {
         width: 90%;
     }
+    .left {
+        flex-direction: column;
+    }
     
 }
