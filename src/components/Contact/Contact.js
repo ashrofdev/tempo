@@ -39,7 +39,7 @@ const Contact = () => {
                         </div>
                         <div className="line">
                             <h4>ADDRESS</h4>
-                            <p>No 23, Ajakuta street, no-entry, Ibadan.</p>
+                            <p>University of Ibadan, Ibadan, Nigeria.</p>
                         </div>
                         
 
