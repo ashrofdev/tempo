@@ -1,17 +1,16 @@
 .contact {
     background-color: rgb(235, 230, 230);
+    padding-bottom: 0;
 }
 
 .contact .options {
-    display: flex;
-    justify-content: space-between;
     padding: 3rem 0;
 }
 
 .left {
     display: flex;
-    flex-direction: column;
     text-align: center;
+    justify-content: center;
 }
 .left p {
     padding: 1rem;
@@ -19,9 +18,8 @@
     margin-bottom: 3rem;
 }
 
-.options .right {
-    display: flex;
-    flex-direction: column;
+.map {
+    grid-column: 1/-1;
 }
 .right input {
     width: 40rem;

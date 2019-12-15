@@ -44,16 +44,19 @@ const Contact = () => {
                         
 
                     </div>
-                    <div className="right">
-                        <input className="name" required placeholder="Enter your name"/>
-                        <input className="mail" required type="email" placeholder="Email address"/>
-                        <input className="num" type="number" placeholder="Phone no"/>
-                        <textarea className="message" placeholder="Enter your message"/>
-                        <button onClick={onMessageSend}>SEND</button>
+                    <div>
+                    
                     </div>
                 </div>
             </div>
-            
+            <iframe className="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2711.
+                    555460173699!2d3.8957919463229067!3d7.441688724883948!2m3!1f0!2f0!3f0!3m2!1i1
+                    024!2i768!4f13.1!3m3!1m2!1s0x1039f2a2c367f6c5%3A0x9a5bc28acaa2556c!2sNnamdi%20
+                    Azikiwe%20Hall!5e0!3m2!1sen!2sng!4v1576403169801!5m2!1sen!2sng" 
+                        width="100%"
+                         height="450"
+                          frameBorder="0" 
+                    ></iframe>
         </div>
     );
 };
