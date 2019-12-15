@@ -11,14 +11,15 @@ const About = () => {
                 <div className="seb_content">
                     <Slide bottom duration={500}>
                         <div className="text">
-                            <h3>BADMUS ABDULAZEEZ</h3>
+                            <h3>Badmus Abdulazeez Babatunde A.K.A tempo </h3>
                             <p>
-                            I'm a recording artist, 
-                            song writer and based in the University of Ibadan.
-                            Lorem ispum dorla sit tueldela selp tula buston delaster 
-                            rrhkg eryghbfd dgb yf rybdh gtg. 
-                            Lorem ispum dorla sit tueldela selp tula buston delaster 
-                            rrhkg eryghbfd dgb yf rybdh gtg. 
+                            He is currently
+                             the CBN  LT deputy governor in the university of Ibadan.
+                              A great lover of  music 
+                             and songwriting. With great and amazing vocals, 
+                              he has rapidly become a sensational artists. 
+                              His singles include  never let you go and ojay .. 
+                              He also does amazing covers of songs
                             </p>
                             
                         </div>
