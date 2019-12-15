@@ -14,7 +14,7 @@ const About = () => {
                             <h3>Badmus Abdulazeez Babatunde A.K.A tempo </h3>
                             <p>
                             He is currently
-                             the CBN  LT deputy governor in the university of Ibadan.
+                             the CBN  LT deputy governor.
                               A great lover of  music 
                              and songwriting. With great and amazing vocals, 
                               he has rapidly become a sensational artists. 
