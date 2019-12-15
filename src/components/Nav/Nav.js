@@ -14,8 +14,7 @@ const Nav = ({authenticate}) => {
         <nav>
             <ul>
                 <li onClick={()=>goTo('about')}>About</li>
-                <li onClick={authenticate}>Jobs</li>
-                <li onClick={()=>goTo('portfolio')}>Portfolio</li>
+                <li onClick={()=>goTo('portfolio')}>Music List</li>
                 <li onClick={()=>goTo('contact')}>Hire me</li>
             </ul> 
         </nav>

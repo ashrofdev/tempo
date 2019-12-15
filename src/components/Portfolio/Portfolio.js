@@ -11,7 +11,7 @@ const Portfolio = ({projects}) => {
         <div className="section portfolio">
         
             <div className="section_content">
-                <h2 className="heading">My Recent works</h2>
+                <h2 className="heading">Music List</h2>
                 
                 <div className="works">
                     <Slide bottom duration={1000} delay={600}>
