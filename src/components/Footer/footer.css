@@ -9,7 +9,7 @@
 }
 
 .footer_text {
-    color: rgb(221, 219, 219);
+    color: rgb(235, 235, 235);
     padding: 2rem 0;
     width: 35rem;
     font-style: italic;
@@ -17,7 +17,7 @@
 }
 
 .footer .copy {
-    color: rgb(88, 86, 86);
+    color: rgb(201, 201, 201);
     margin-top: 3rem;
     font-weight: 100;
 }
