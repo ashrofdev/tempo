@@ -14,10 +14,10 @@ const Header = () => {
             <h1>TEMPO BRAND</h1>
             <Slider {...settings}>
                 <div className="slide">
-                   <img src={require('../media/badmus1.jpg')}/>
+                   <img src={require('../media/ani.jpg')}/>
                 </div>
                 <div className="slide">
-                   <img src={require('../media/ani.jpg')}/>
+                   <img src={require('../media/badmus1.jpg')}/>
                 </div>
                 <div className="slide">
                    <img src={require('../media/badmus4.jpg')}/>
