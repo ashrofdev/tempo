@@ -50,9 +50,9 @@
     }
    
 }
-@media only screen and (max-width: 345px) {
+@media only screen and (max-width: 385px) {
     .slider, .slider .slide {
-        height: 65vh;
+        height: 55vh;
     }
     .logo {
         width: 4rem;
