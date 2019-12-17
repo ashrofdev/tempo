@@ -14,13 +14,13 @@ const Header = () => {
             <h1>TEMPO</h1>
             <Slider {...settings}>
                 <div className="slide">
+                   <img src={require('../media/badmus2.jpeg')}/>
+                </div>
+                <div className="slide">
                    <img src={require('../media/ani.jpg')}/>
                 </div>
                 <div className="slide">
                    <img src={require('../media/badmus1.jpg')}/>
-                </div>
-                <div className="slide">
-                   <img src={require('../media/badmus4.jpg')}/>
                 </div>
             </Slider>
         </div>
